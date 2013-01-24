@@ -28,4 +28,4 @@ python geopy-page.py
 ```
 
 <hr>
-<p>Special thanks to <a href="http://bootstrapcdn.com">BootstrapCDN.com</a> for hosting the stylesheet to make the output nice.</p>
+<p>Special thanks to <a href="http://bootstrapcdn.com">BootstrapCDN.com</a> for hosting the Twitter Bootstrap stylesheet and making the output nice.</p>
