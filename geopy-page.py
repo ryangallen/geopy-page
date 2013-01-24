@@ -13,7 +13,7 @@ addresses = [
 ]
 
 # open file and page header
-text_file = open("Output.html", "w")
+text_file = open("output.html", "w")
 text_file.write("""
 <!doctype html>
 <html lang=\"en\">
