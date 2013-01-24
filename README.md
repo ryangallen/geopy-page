@@ -27,4 +27,5 @@ addresses = [
 python geopy-page.py
 ```
 
-<p>Special thanks to BootstrapCDN.com for hosting the stylesheet to make the output nice.</p>
+<hr>
+<p>Special thanks to <a href="http://bootstrapcdn.com">BootstrapCDN.com</a> for hosting the stylesheet to make the output nice.</p>
